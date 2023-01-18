@@ -101,10 +101,10 @@ function Serialization.keyValueTableToStringWithIndention(table, depth, maxDepth
       if type(key) == 'number' then
         outputtedKey = '[' .. tostring(key) .. ']'
       elseif type(key) == 'string' then
-        if string.match(key, ' ') then
-          outputtedKey = '["' .. tostring(key) .. '"]'
-        else
+        if Lua.isValidName(key) then
           outputtedKey = tostring(key)
+        else
+          outputtedKey = '["' .. tostring(key) .. '"]'
         end
       else
         outputtedKey = '[' .. tostring(key) .. ']'

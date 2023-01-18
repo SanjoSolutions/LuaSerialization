@@ -1,5 +1,5 @@
 ## Title: Serialization
 ## Interface: 30400
-## Dependencies: Array, String
+## Dependencies: Array, String, Lua
 
 Serialization.lua
