@@ -1,5 +1,5 @@
 ## Title: Serialization
-## Interface: 100007
+## Interface: 100100
 ## Dependencies: Array, String, Lua
 
 Serialization.lua
