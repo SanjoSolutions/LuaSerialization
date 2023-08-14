@@ -1,8 +1,8 @@
 {
   "name": "Serialization",
   "dependencies": {
-    "Array": "SanjoSolutions/LuaArray#v1.1.0",
-    "String": "SanjoSolutions/LuaString#v1.1.0",
-    "Lua": "SanjoSolutions/LuaLua#v1.1.0"
+    "Array": "SanjoSolutions/LuaArray#v1.0.0",
+    "String": "SanjoSolutions/LuaString#v1.0.0",
+    "Lua": "SanjoSolutions/LuaLua#v1.0.0"
   }
 }
