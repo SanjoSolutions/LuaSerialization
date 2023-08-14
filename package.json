@@ -1,8 +1,8 @@
 {
-  "name": "Serialization",
+  "name": "@sanjo-addons/serialization",
   "dependencies": {
-    "Array": "SanjoSolutions/LuaArray#v1.0.0",
-    "String": "SanjoSolutions/LuaString#v1.0.0",
-    "Lua": "SanjoSolutions/LuaLua#v1.0.0"
+    "@sanjo-addons/array": "SanjoSolutions/LuaArray#v1.0.0",
+    "@sanjo-addons/string": "SanjoSolutions/LuaString#v1.0.0",
+    "@sanjo-addons/lua": "SanjoSolutions/LuaLua#v1.0.0"
   }
 }

@@ -1,6 +1,6 @@
 ## Title: Serialization
 ## Interface: 100105
 ## Dependencies: Array, String, Lua
-## Version: 1.0.0
+## Version: 1.1.0
 
 Serialization.lua
